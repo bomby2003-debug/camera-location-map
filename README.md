@@ -1,37 +1,35 @@
-# 📸 Camera Location and Map App
+# 📸 แอป Camera Location and Map
 
-Mobile application developed with React Native and Expo.
+แอปพลิเคชันมือถือที่พัฒนาด้วย React Native และ Expo
 
-This app allows users to:
-- Open the camera
-- Take photos
-- Save photos to the device
-- Store GPS location data
-- View saved photos in a gallery
-- Display photo locations on Google Maps and in-app maps
-
----
-
-# 🚀 Features
-
-✅ Open camera  
-✅ Take photos  
-✅ Save photos to device gallery  
-✅ Get real GPS coordinates  
-✅ Store Latitude & Longitude  
-✅ Get place/location name  
-✅ Save data permanently using AsyncStorage  
-✅ Gallery screen  
-✅ View photo location in app map  
-✅ Open location in Google Maps  
-✅ Delete single photo  
-✅ Delete all photos  
-✅ Flip front/back camera  
-✅ Modern camera UI  
+แอปนี้สามารถ:
+- เปิดกล้องเพื่อถ่ายภาพ
+- บันทึกรูปภาพลงเครื่อง
+- บันทึกตำแหน่ง GPS ของรูปภาพ
+- แสดงรูปภาพที่บันทึกไว้
+- แสดงตำแหน่งของรูปภาพบนแผนที่
 
 ---
 
-# 🛠️ Technologies Used
+# 🚀 ความสามารถของแอป
+
+✅ เปิดกล้องถ่ายรูป  
+✅ ถ่ายภาพและบันทึกลงเครื่อง  
+✅ ดึงตำแหน่ง GPS จริง  
+✅ บันทึก Latitude และ Longitude  
+✅ แสดงชื่อสถานที่  
+✅ บันทึกข้อมูลถาวรด้วย AsyncStorage  
+✅ มีหน้า Gallery แสดงรูปภาพทั้งหมด  
+✅ แสดงตำแหน่งบนแผนที่ภายในแอป  
+✅ เปิดตำแหน่งใน Google Maps  
+✅ ลบรูปภาพทีละรูป  
+✅ ลบรูปภาพทั้งหมด  
+✅ สลับกล้องหน้า / กล้องหลัง  
+✅ UI กล้องสไตล์ทันสมัย  
+
+---
+
+# 🛠️ เทคโนโลยีที่ใช้
 
 - React Native
 - Expo
@@ -44,9 +42,9 @@ This app allows users to:
 
 ---
 
-# 📦 Installation
+# 📦 วิธีติดตั้งโปรเจ็ก
 
-Clone the repository:
+Clone โปรเจ็กจาก GitHub
 
 ```bash
 git clone https://github.com/bomby2003-debug/camera-location-map.git
